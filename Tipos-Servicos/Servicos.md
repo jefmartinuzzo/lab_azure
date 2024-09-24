@@ -1,6 +1,6 @@
 # Configuração de Máquinas Virtuais no Azure
 
-Quando você está na página de criação de uma máquina virtual (VM) no Azure, as seções disponíveis ajudam a configurar e personalizar sua VM. Aqui está uma visão geral do que cada uma dessas seções aborda:
+hoje aprendi que a página de criação de uma máquina virtual (VM) no Azure as seções disponíveis ajudam a configurar e personalizar sua VM. Aqui está uma visão geral do que cada uma dessas seções aborda:
 
 ## 1. Básico
 
@@ -56,6 +56,4 @@ Nesta seção, você pode adicionar tags à sua VM. Tags são pares chave-valor 
 ## 8. Revisar + Criar
 
 Esta é a etapa final onde você revisa todas as configurações feitas e, se tudo estiver correto, procede com a criação da VM.
-
-Cada uma dessas seções é importante para garantir que a VM esteja configurada corretamente para suas necessidades específicas e que possa ser gerenciada e monitorada de maneira eficaz.
 
