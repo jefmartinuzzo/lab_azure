@@ -1,6 +1,6 @@
 ## Criando Grupo de recurso
 
-![Criar Grupo de recurso](.\lab_azure\aula-msa-arqutetura\imagem\recursos01.png)
+![Criar Grupo de recurso](./lab_azure/blob/main/aula-msa-arqutetura/imagem/RedesVirtuais.png)
 
 ![Criar Grupo de recurso "Basico"](.\lab_azure\aula-msa-arqutetura\imagem\recursos02.png)
 
