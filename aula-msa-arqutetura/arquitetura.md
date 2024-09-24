@@ -8,9 +8,11 @@
 
 ## Redes Virtual
 
-![Criar Redes Virtuais "basico"](.\lab_azure\aula-msa-arqutetura\imagem\RedesVirtuais.png)
+![Criar Redes Virtuais "basico"](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/RedesVirtuais.png)
 
-![Criar Redes Virtuais "basico"](.\lab_azure\aula-msa-arqutetura\imagem\RedesVirtuais02.png)
+![Criar Redes Virtuais "basico"](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/RedesVirtuais02.png)
+
+![Criar Redes Virtuais "basico"](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/RedesVirtuais03.png)
 ## VNET1 no grupo de recurso
 
-![visualizador de recursos](.\lab_azure\aula-msa-arqutetura\imagem\RedesVirtuais03.png)
+![visualizador de recursos](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/recursos04.png)
