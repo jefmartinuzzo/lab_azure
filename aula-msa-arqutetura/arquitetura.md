@@ -1,10 +1,10 @@
 ## Criando Grupo de recurso
 
-![Criar Grupo de recurso](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/RedesVirtuais.png)
+![Criar Grupo de recurso](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/recursos01.png)
 
-![Criar Grupo de recurso "Basico"](.\lab_azure\aula-msa-arqutetura\imagem\recursos02.png)
+![Criar Grupo de recurso "Basico"](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/recursos02.png)
 
-![Criar Grupo de recurso "Pronto"](.\lab_azure\aula-msa-arqutetura\imagem\recursos03.png)
+![Criar Grupo de recurso "Pronto"](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-arqutetura/imagem/recursos03.png)
 
 ## Redes Virtual
 
