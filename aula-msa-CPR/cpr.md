@@ -1,23 +1,57 @@
-## Maquina Virtual
+# Máquina Virtual no Azure
 
-## Basico
-![Criar Grupo de recurso](.\lab_azure\aula-msa-arqutetura\imagem\recursos01.png)
+Este laboratório tem como objetivo ensinar como criar e configurar uma Máquina Virtual (VM) no Azure, passando pelos conceitos básicos até os mais avançados.
+
+## Conceitos Básicos
+
+Neste módulo, você aprenderá os fundamentos sobre máquinas virtuais, incluindo como configurá-las e gerenciá-las.
+
+![Básico de VM 1](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/BASICO01.png)
+![Básico de VM 2](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/BASICO02.png)
 
 ## Discos
-![Criar Grupo de recurso "Basico"](.\lab_azure\aula-msa-arqutetura\imagem\recursos02.png)
+
+Aprenda a adicionar discos à sua VM para expandir a capacidade de armazenamento e melhorar a performance.
+
+![Adicionando um Disco](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/DISCOS.png)
+
 ## Redes
-![Criar Grupo de recurso "Pronto"](.\lab_azure\aula-msa-arqutetura\imagem\recursos03.png)
+
+Configuração de redes virtuais, permitindo que sua VM se comunique com outros recursos de forma segura.
+
+![Adicionando uma Rede](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/REDES.png)
 
 ## Gerenciamento
 
-![Criar Redes Virtuais "basico"](.\lab_azure\aula-msa-arqutetura\imagem\RedesVirtuais.png)
+Nesta seção, você verá como configurar e gerenciar o acesso e as políticas da sua VM.
+
+![Gerenciamento de VM](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/GERENCIAMENTO.png)
 
 ## Monitoramento
-![Criar Redes Virtuais "basico"](.\lab_azure\aula-msa-arqutetura\imagem\RedesVirtuais02.png)
-## Avancado
 
-![visualizador de recursos](.\lab_azure\aula-msa-arqutetura\imagem\RedesVirtuais03.png)
+Entenda como monitorar o desempenho e a integridade da sua VM, utilizando as ferramentas de monitoramento do Azure.
 
-## Marca
+![Monitoramento de VM](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/MONITORAMENTO.png)
 
-## Revisar + Criar
+## Conceitos Avançados
+
+Nesta etapa, vamos explorar conceitos mais avançados sobre o gerenciamento de VMs no Azure.
+
+![Conceitos Avançados](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/AVANCADO.png)
+
+## Marcas (Tags)
+
+Veja como usar tags para organizar e gerenciar seus recursos de forma eficiente.
+
+![Conceito de Marcas](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/MARCAS.png)
+
+## Revisar e Criar
+
+Após configurar sua VM, revise todas as configurações e finalize o processo de criação.
+
+![Revisar e Criar](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-CPR/imagens/REVISARCRIAR.png)
+
+---
+
+Siga os passos descritos em cada seção para garantir que sua Máquina Virtual esteja corretamente configurada e operando no Azure.
+
