@@ -16,7 +16,7 @@ Ao clicar em **'Novo Usuário'**, um menu dropdown oferece duas opções:
 - **Criar novo usuário**
 ![Criando Usuários](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-identidade/imagem/NOVOUSER.png)
 
-### basico
+### Basico
 
 ![Criando Usuários](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-identidade/imagem/USER.png)
 
