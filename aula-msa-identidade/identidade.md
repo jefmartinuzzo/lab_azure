@@ -2,18 +2,21 @@
 
 ### 1. **Acessando o Painel e Conhecendo seus Recursos**
 No **portal do Azure**, vá até o menu lateral e procure por **'Microsoft Entra ID'**. No painel principal, você terá uma visão geral com os principais recursos do Entra ID. Um novo menu aparecerá à esquerda com opções de gerenciamento, como **criação de novos usuários**, **grupos**, **identidades externas**, entre outros.
+
 ![Acessando Painel](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-identidade/imagem/DEFAULT.png)
 
 No topo do painel, além do recurso habitual de **Criar/Adicionar**, destaca-se a opção **'Gerenciar Locatários'**. Mais abaixo, a aba **Monitoramento** também é importante para acompanhar um número elevado de usuários e grupos.
 
 ### 2. **Gerenciando Usuários**
 Clique em **'Usuários'** para abrir um painel onde você pode visualizar todos os usuários já criados e acessar as opções de gerenciamento. No menu lateral, você encontrará a opção de **Autenticação Multifator (MFA)** por usuário, disponível entre as abas no topo.
+
 ![Gerenciando Usuários](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-identidade/imagem/MFA.png)
 
 
 ### 3. **Criando Usuários**
 Ao clicar em **'Novo Usuário'**, um menu dropdown oferece duas opções:
 - **Criar novo usuário**
+
 ![Criando Usuários](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-identidade/imagem/NOVOUSER.png)
 
 ### Basico
