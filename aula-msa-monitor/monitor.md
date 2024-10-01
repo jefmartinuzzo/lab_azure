@@ -28,3 +28,9 @@
 ---
 
 Essas ferramentas formam uma solução integrada para monitorar, diagnosticar e otimizar o desempenho e a integridade dos serviços no Azure.
+
+segue exemplos
+
+![MONITOR](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-monitor/imagem/MONITOR.png)
+![ADVISOR](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-monitor/imagem/ADVISOR.png)
+
