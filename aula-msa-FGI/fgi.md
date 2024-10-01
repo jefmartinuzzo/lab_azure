@@ -28,3 +28,11 @@ O **Azure Resource Manager (ARM)** facilita o gerenciamento e provisionamento de
 
 Quando combinados, **Azure DevOps** e **ARM** oferecem um fluxo completo para a implantação de código e infraestrutura, seguindo as melhores práticas de DevOps.
 
+segue caminhos
+
+![Shell](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-FGI/imagem/1shelL.png)
+![VNET](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-FGI/imagem/2VNET.png)
+![CLI](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-FGI/imagem/3CLI.png)
+![PS](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-FGI/imagem/4PS.png)
+![TEMPLESTE](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-FGI/imagem/5TEMPLASTE.png)
+![AZUREARc](https://github.com/jefmartinuzzo/lab_azure/blob/main/aula-msa-FGI/imagem/6AZUREARC.png)
